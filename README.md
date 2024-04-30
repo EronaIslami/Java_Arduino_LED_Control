@@ -8,6 +8,12 @@ The idea of this simple project is to prove the concept of HMI that is widely us
 
 ![off](https://github.com/EronaIslami/Java_Arduino_LED_Control/assets/132479567/f060a9d8-c179-4eea-bd99-3721972dc463)
 
+<style>
+  img {
+    width: 400px; /* or any other dimensions */
+    height: 400px;
+  }
+</style>
 
 
 
