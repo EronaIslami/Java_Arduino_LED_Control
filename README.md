@@ -2,8 +2,8 @@ Java_Arduino_LED_Control is a simple project HMI (Human Machine Interface) that 
 The code to access and use the serial port of PC is written in Java using the jSerialComm library for serial communication.
 The idea of this simple project is to prove the concept of HMI that is widely used.
 
-<img src="https://github.com/EronaIslami/Java_Arduino_LED_Control/assets/132479567/bf6804b3-631a-40c6-a8e2-b366cae13536" width="800" height="500">
-<img src="https://github.com/EronaIslami/Java_Arduino_LED_Control/assets/132479567/f060a9d8-c179-4eea-bd99-3721972dc463" width="800" height="500">
+<img src="https://github.com/EronaIslami/Java_Arduino_LED_Control/assets/132479567/bf6804b3-631a-40c6-a8e2-b366cae13536" width="700" height="500">
+<img src="https://github.com/EronaIslami/Java_Arduino_LED_Control/assets/132479567/f060a9d8-c179-4eea-bd99-3721972dc463" width="700" height="500">
 
 
 
